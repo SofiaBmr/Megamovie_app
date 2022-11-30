@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 15 11:11:25 2022
 
-@author: romain and sofia
-"""
 from IMDB_requests import IMDbRequests
 
 class MovieFacade:
