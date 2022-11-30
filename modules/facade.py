@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from IMDB_requests import IMDbRequests
+from modules.IMDB_requests import IMDbRequests
 
 class MovieFacade:
     
