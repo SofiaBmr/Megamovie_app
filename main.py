@@ -8,8 +8,8 @@ from dotenv import load_dotenv
 from facade import MovieFacade
 import os
 
-load_dotenv('key.env')
+load_dotenv('/environnement/key.env')
 apiKey=os.environ.get('APIKEY')
-expression=input('Film you want the rate: ')
+expression=input('Which movie are you interested in? ')
 title , rate =MovieFacade.get_rating(apiKey, expression)
-print(f'{title} obtain {rate}/10')
+print(f'{title} got a review of  {rate}/10')
