@@ -33,7 +33,7 @@ OR
 python main.py
 ```
 
-Let yourself be guided the instructions on the shell !🚀
+Let yourself be guided by the instructions on the shell !🚀
 
 
 ## Authors
