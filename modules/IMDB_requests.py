@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 15 11:08:42 2022
-
-@author: romain and sofia
-"""
 
 import requests
 
