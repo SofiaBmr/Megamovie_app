@@ -12,6 +12,10 @@ We use the following API for movies information: https://imdb-api.com/API
 
 Here's a small commercial video to convince you using this app !
 
+
+https://user-images.githubusercontent.com/85236463/204880201-fb3597fd-bf34-402e-96c7-e30a46b029cf.mp4
+
+
 ## Authors
 
 Sofia Boumahrat & Romain Marrion
