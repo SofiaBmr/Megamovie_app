@@ -5,7 +5,7 @@ Created on Tue Nov 15 11:35:05 2022
 @author: romain and sofia
 """
 from dotenv import load_dotenv
-from facade import MovieFacade
+from modules.facade import MovieFacade
 import os
 
 load_dotenv('/environnement/key.env')
