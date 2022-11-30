@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 15 11:35:05 2022
 
-@author: romain and sofia
-"""
 from dotenv import load_dotenv
 from modules.facade import MovieFacade
 import os
